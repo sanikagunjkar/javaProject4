@@ -1,0 +1,8 @@
+package javaProject4;
+
+public class demo2 {
+  public static void main(String[] args) {
+    System.out.println("it is feature3 _ demo2 ");
+  }
+  
+}
